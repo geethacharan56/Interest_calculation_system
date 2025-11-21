@@ -1,0 +1,2 @@
+Name: vishnu | Principal: 10000.00 | Rate: 2.00 | Time: 2.00 | Simple Interest: 400.00
+Name: bhavyan | Principal: 20000.00 | Rate: 3.00 | Time: 4.00 | Compound Interest: 2510.17
