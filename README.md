@@ -1,2 +1,4 @@
 # Interest_calculation_system
 A C-based console application for calculating simple and compound interest with customer record storage.
+# Abstract
+The Interest Calculation System is a console-based application developed in C to compute both Simple Interest (SI) and Compound Interest (CI). The program provides a menu-driven interface that allows users to enter customer details, perform interest calculations, and store results in a persistent file. Each customer is assigned a unique ID, enabling efficient record management and search functionality. By integrating core programming concepts such as functions, structures, loops, conditional statements, and file handling, the system demonstrates how C can be applied to solve real-world financial problems. This project highlights the importance of modular design and data persistence, making it a practical tool for basic financial record-keeping and a strong foundation for more advanced applications.
