@@ -57,7 +57,7 @@ Copy code
 Program Menu
 markdown
 Copy code
---- Interest Calculation System ---
+##--- Interest Calculation System ---
 1. Calculate Simple Interest
 2. Calculate Compound Interest
 3. View Records
