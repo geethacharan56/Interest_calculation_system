@@ -104,3 +104,29 @@ File Operations
 saveToFile()
 
 loadFromFile()
+##Output photos in terminal
+### **Main menu**
+<img width="481" height="164" alt="Screenshot 2025-11-25 192059" src="https://github.com/user-attachments/assets/cbaafa09-e73e-4849-a28a-10c219ed7c4d" />
+
+### **add new record**
+<img width="318" height="242" alt="image" src="https://github.com/user-attachments/assets/9f69fe5e-6d36-4ced-9246-810571a2bfa2" />
+
+### **Display records**
+<img width="343" height="347" alt="image" src="https://github.com/user-attachments/assets/c8255b1e-5b88-4804-8f15-02d9271d7fe6" />
+
+### **update records**
+<img width="342" height="287" alt="Screenshot 2025-11-25 193142" src="https://github.com/user-attachments/assets/f0677662-7671-420a-ab02-6d0f8946e377" />
+
+### **delete records**
+<img width="487" height="218" alt="image" src="https://github.com/user-attachments/assets/69822e13-ff56-406c-999f-ea896782260e" />
+
+
+
+
+
+
+
+
+
+
+
