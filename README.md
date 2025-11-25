@@ -80,12 +80,5 @@ simpleInterest()	Computes simple interest
 compoundInterest()	Computes compound interest
 saveRecord()	Saves customer info + interest to file
 
-⚠️ Notes
-Customer names cannot contain spaces due to scanf("%s").
+### OUtPut Photos
 
-Ensure the program has write permission to create records.txt.
-
-Records are continuously appended — delete the file if you want to reset.
-
-📄 License
-This project is free to use, modify, and share for educational purposes.
