@@ -9,13 +9,13 @@ A menu-driven C program that calculates Simple Interest and Compound Interest, a
 Records are stored in a records.txt file and loaded automatically when the program starts.
 
  Features
-✔ Interest Calculation
+ Interest Calculation
 
 Simple Interest
 
 Compound Interest
 
-✔ CRUD Operations
+ CRUD Operations
 
 Create – Add new customer interest records
 
@@ -25,7 +25,7 @@ Update – Modify existing records
 
 Delete – Remove incorrect or old records
 
-✔ File Handling
+ File Handling
 
 Records automatically saved to records.txt
 
@@ -33,7 +33,7 @@ Supports loading existing data at startup
 
 Uses | as a delimiter for clean parsing
 
-✔ Improved Safety & Code Quality
+ Improved Safety & Code Quality
 
 Supports names with spaces
 
@@ -51,7 +51,7 @@ project/
 │── records.txt   (auto-created)
 │── README.md
 
-🛠 How to Compile
+ How to Compile
 
 Use GCC or any C compiler:
 
@@ -70,7 +70,7 @@ Run the program:
 4. Delete Record
 5. Exit
 
-🗂 Record Format (in records.txt)
+ Record Format (in records.txt)
 
 Each record is stored as:
 
